@@ -4,8 +4,6 @@
     "@bazel/ibazel": "^0.15.10",
     "@bazel/rollup": "^3.6.0",
     "@bazel/typescript": "^3.6.0",
-    "@rollup/plugin-commonjs": "^14.0.0",
-    "@rollup/plugin-node-resolve": "^8.4.0",
     "rollup": "^2.52.3",
     "typescript": "^4.3.4"
   },
